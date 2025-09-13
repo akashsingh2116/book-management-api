@@ -3,6 +3,8 @@
 This project is a backend application built with the MERN stack (MongoDB, Express.js, React, Node.js).
 It focuses on user authentication and book management with strong security practices and a clean, modular structure.
 
+🔗 Live API: https://book-management-api-tlq3.onrender.com
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 🔑 Project Overview
@@ -44,13 +46,13 @@ Authentication → Only authenticated users with a valid token can access protec
 
 ⚙️ Tech Stack
 Technology	Purpose
-Node.js	Backend runtime environment
-Express.js	Framework for building APIs and handling routes
-MongoDB	NoSQL database for storing users & books
-Mongoose	ODM for MongoDB (schemas & models)
-bcryptjs	Secure password hashing & comparison
-jsonwebtoken	Authentication & authorization with JWT
-dotenv	Manage environment variables (DB URI, JWT secret)
+Node.js	- Backend runtime environment
+Express.js - Framework for building APIs and handling routes
+MongoDB	NoSQL - database for storing users & books
+Mongoose -	ODM for MongoDB (schemas & models)
+bcryptjs -	Secure password hashing & comparison
+jsonwebtoken -	Authentication & authorization with JWT
+dotenv - Manage environment variables (DB URI, JWT secret)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
